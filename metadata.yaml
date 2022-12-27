@@ -1,0 +1,39 @@
+_repo: American-Indian-love-lyrics-and-other-verse-From-the-songs-of-the-North-American-Indians_69419
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Austin, Mary
+    alias: Austin, Mary Hunter
+    birthdate: 1868
+    deathdate: 1934
+    gutenberg_agent_id: '201'
+    url: http://www.gutenberg.org/2009/agents/201
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Hunter_Austin
+  compiler:
+    agent_name: Barnes, Nellie
+    gutenberg_agent_id: '55252'
+    url: http://www.gutenberg.org/2009/agents/55252
+description: ''
+gutenberg_issued: '2022-11-24'
+identifiers:
+  gutenberg: '69419'
+  lccn: '25024985'
+language: en
+pgterms:marc904: https://archive.org/details/americanindianlo0000barn/page/n5/mode/2up
+pgterms:marc905: 20210118013243barnes
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: The Macmillan Company,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Poetry'
+- !lcc 'E011'
+- GITenberg
+title: "American Indian love lyrics, and other verse\r\nFrom the songs of the North\
+  \ American Indians"
+url: http://www.gutenberg.org/ebooks/69419
