@@ -13,7 +13,12 @@ contributor:
     agent_name: Barnes, Nellie
     gutenberg_agent_id: '55252'
     url: http://www.gutenberg.org/2009/agents/55252
+covers:
+- cover_type: archival
+  image_path: 69419-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69419#American-Indian-love-lyrics-and-other-verse-From-the-songs-of-the-North-American-Indians
 gutenberg_issued: '2022-11-24'
 identifiers:
   gutenberg: '69419'
